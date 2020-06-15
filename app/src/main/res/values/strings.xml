@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Thousandaire</string>
+    <string name="question_first">What is the name of Mickey Mouse\'s dog?</string>
+    <string name="question1_answer1_Button"> Pluto</string>
+    <string name="question1_option2_Button"> Goofy</string>
+    <string name="question1_option3_Button"> Minnie</string>
+    <string name="question1_option4_Button"> Daisy</string>
+
+
+    <string name="question_second">What is the largest planet in our solar system?</string>
+    <string name="question2_option1_Button"> Earth</string>
+    <string name="question2_option2_Button"> Mars</string>
+    <string name="question2_answer3_Button"> Jupiter</string>
+    <string name="question2_option4_Button"> Venus</string>
+
+    <string name="question_third">How many people were originally shipwrecked on Gilligan\'s Island?</string>
+    <string name="question3_option1_Button"> 2</string>
+    <string name="question3_option2_Button"> 6</string>
+    <string name="question3_answer3_Button"> 7</string>
+    <string name="question3_option4_Button"> 8</string>
+
+    <string name="question_fourth">Which of these is not an abbreviation for an element on the periodic table?</string>
+    <string name="question4_option1_Button"> Tc</string>
+    <string name="question4_option2_Button"> O</string>
+    <string name="question4_option3_Button"> Fe</string>
+    <string name="question4_answer4_Button"> E</string>
+
+    <string name="question_fifth">The city Valletta is the capital of which European country?</string>
+    <string name="question5_option1_Button"> Croatia</string>
+    <string name="question5_option2_Button"> Latvia</string>
+    <string name="question5_option3_Button"> Estonia</string>
+    <string name="question5_answer4_Button"> Malta</string>
+
+    <string name="question_sixth">Approximately how many million miles is the Earth from the Sun?</string>
+    <string name="question6_option1_Button"> 1</string>
+    <string name="question6_option2_Button"> 10</string>
+    <string name="question6_answer3_Button"> 100</string>
+    <string name="question6_option4_Button"> 200</string>
+    <string name="title_activity_game">GameActivity</string>
+
+</resources>
